@@ -1,0 +1,4 @@
+Ley de inercia: Un cuerpo no puede modificar su condición inicial, ya sea reposo o movimiento rectilíneo uniforme a no ser de una o más fuerzas que lo hagan modificar su condición inicial.
+Ley Fuerza y aceleración: La aceeración de un objeto es directamente proporcional a la suma de las fuerzas que actuan sobre
+e inversamente proporcional a la masa del objeto.
+Ley acción, reacción: Una fuerza aplicada a una masa tiene como reacción una fuerza inversa de misma magnitud.
